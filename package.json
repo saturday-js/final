@@ -1,0 +1,15 @@
+{
+  "name": "the-note-app",
+  "scripts": {
+    "test": "npm run rule",
+    "rule": "mocha test/rules/**.test.js"
+  },
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^4.0.1",
+    "targaryen": "^3.0.5"
+  }
+}
