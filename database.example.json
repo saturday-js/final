@@ -1,1 +1,30 @@
-{}
+{
+  "users": {
+    "user0001": {
+      "notes": {
+        "node0001": {
+          "text": "Hello World."
+        },
+        "node0002": {
+          "text": "Example Note 2"
+        },
+        "node0003": {
+          "text": "Example Note 3"
+        }
+      }
+    },
+    "user0002": {
+      "notes": {
+        "node0001": {
+          "text": "Hello World. from user0002"
+        },
+        "node0002": {
+          "text": "Example Note 2"
+        },
+        "node0003": {
+          "text": "Example Note 3"
+        }
+      }
+    }
+  }
+}
